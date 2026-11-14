@@ -1,0 +1,102 @@
+{
+  "C:\\Users\\Марк\\AppData\\Local\\Temp\\pytest-of-Марк\\pytest-0\\test_manifest_collect_and_diff0\\model.Q4_K_M.gguf": {
+    "size": 1,
+    "mtime": 1794606107.5506718,
+    "sha256": "2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881"
+  },
+  "C:\\Users\\Марк\\AppData\\Local\\Temp\\pytest-of-Марк\\pytest-0\\test_any_parameter_change_requ0\\model.Q4_K_M.gguf": {
+    "size": 1,
+    "mtime": 1794606107.5569384,
+    "sha256": "2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881"
+  },
+  "C:\\Users\\Марк\\AppData\\Local\\Temp\\pytest-of-Марк\\pytest-0\\test_model_change_requires_new0\\a.Q4_K_M.gguf": {
+    "size": 3,
+    "mtime": 1794606107.5697548,
+    "sha256": "7692c3ad3540bb803c020b3aee66cd8887123234ea0c6e7143c0add73ff431ed"
+  },
+  "C:\\Users\\Марк\\AppData\\Local\\Temp\\pytest-of-Марк\\pytest-0\\test_model_change_requires_new0\\b.Q4_K_M.gguf": {
+    "size": 3,
+    "mtime": 1794606107.5697548,
+    "sha256": "3fc4ccfe745870e2c0d99f71f30ff0656c8dedd41cc1d7d3d376b0dbe685e2f3"
+  },
+  "C:\\Users\\Марк\\AppData\\Local\\Temp\\pytest-of-Марк\\pytest-1\\test_manifest_collect_and_diff0\\model.Q4_K_M.gguf": {
+    "size": 1,
+    "mtime": 1794606231.4438019,
+    "sha256": "2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881"
+  },
+  "C:\\Users\\Марк\\AppData\\Local\\Temp\\pytest-of-Марк\\pytest-1\\test_any_parameter_change_requ0\\model.Q4_K_M.gguf": {
+    "size": 1,
+    "mtime": 1794606231.4598556,
+    "sha256": "2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881"
+  },
+  "C:\\Users\\Марк\\AppData\\Local\\Temp\\pytest-of-Марк\\pytest-1\\test_model_change_requires_new0\\a.Q4_K_M.gguf": {
+    "size": 3,
+    "mtime": 1794606231.474061,
+    "sha256": "7692c3ad3540bb803c020b3aee66cd8887123234ea0c6e7143c0add73ff431ed"
+  },
+  "C:\\Users\\Марк\\AppData\\Local\\Temp\\pytest-of-Марк\\pytest-1\\test_model_change_requires_new0\\b.Q4_K_M.gguf": {
+    "size": 3,
+    "mtime": 1794606231.474061,
+    "sha256": "3fc4ccfe745870e2c0d99f71f30ff0656c8dedd41cc1d7d3d376b0dbe685e2f3"
+  },
+  "C:\\Users\\Марк\\AppData\\Local\\Temp\\pytest-of-Марк\\pytest-2\\test_manifest_collect_and_diff0\\model.Q4_K_M.gguf": {
+    "size": 1,
+    "mtime": 1794606269.0618548,
+    "sha256": "2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881"
+  },
+  "C:\\Users\\Марк\\AppData\\Local\\Temp\\pytest-of-Марк\\pytest-2\\test_any_parameter_change_requ0\\model.Q4_K_M.gguf": {
+    "size": 1,
+    "mtime": 1794606269.0740142,
+    "sha256": "2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881"
+  },
+  "C:\\Users\\Марк\\AppData\\Local\\Temp\\pytest-of-Марк\\pytest-2\\test_model_change_requires_new0\\a.Q4_K_M.gguf": {
+    "size": 3,
+    "mtime": 1794606269.0861485,
+    "sha256": "7692c3ad3540bb803c020b3aee66cd8887123234ea0c6e7143c0add73ff431ed"
+  },
+  "C:\\Users\\Марк\\AppData\\Local\\Temp\\pytest-of-Марк\\pytest-2\\test_model_change_requires_new0\\b.Q4_K_M.gguf": {
+    "size": 3,
+    "mtime": 1794606269.0861485,
+    "sha256": "3fc4ccfe745870e2c0d99f71f30ff0656c8dedd41cc1d7d3d376b0dbe685e2f3"
+  },
+  "C:\\Users\\Марк\\AppData\\Local\\Temp\\pytest-of-Марк\\pytest-3\\test_manifest_collect_and_diff0\\model.Q4_K_M.gguf": {
+    "size": 1,
+    "mtime": 1794606382.508894,
+    "sha256": "2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881"
+  },
+  "C:\\Users\\Марк\\AppData\\Local\\Temp\\pytest-of-Марк\\pytest-3\\test_any_parameter_change_requ0\\model.Q4_K_M.gguf": {
+    "size": 1,
+    "mtime": 1794606382.5244904,
+    "sha256": "2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881"
+  },
+  "C:\\Users\\Марк\\AppData\\Local\\Temp\\pytest-of-Марк\\pytest-3\\test_model_change_requires_new0\\a.Q4_K_M.gguf": {
+    "size": 3,
+    "mtime": 1794606382.530528,
+    "sha256": "7692c3ad3540bb803c020b3aee66cd8887123234ea0c6e7143c0add73ff431ed"
+  },
+  "C:\\Users\\Марк\\AppData\\Local\\Temp\\pytest-of-Марк\\pytest-3\\test_model_change_requires_new0\\b.Q4_K_M.gguf": {
+    "size": 3,
+    "mtime": 1794606382.530528,
+    "sha256": "3fc4ccfe745870e2c0d99f71f30ff0656c8dedd41cc1d7d3d376b0dbe685e2f3"
+  },
+  "C:\\Users\\Марк\\AppData\\Local\\Temp\\pytest-of-Марк\\pytest-4\\test_manifest_collect_and_diff0\\model.Q4_K_M.gguf": {
+    "size": 1,
+    "mtime": 1794606464.1556146,
+    "sha256": "2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881"
+  },
+  "C:\\Users\\Марк\\AppData\\Local\\Temp\\pytest-of-Марк\\pytest-4\\test_any_parameter_change_requ0\\model.Q4_K_M.gguf": {
+    "size": 1,
+    "mtime": 1794606464.1712775,
+    "sha256": "2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881"
+  },
+  "C:\\Users\\Марк\\AppData\\Local\\Temp\\pytest-of-Марк\\pytest-4\\test_model_change_requires_new0\\a.Q4_K_M.gguf": {
+    "size": 3,
+    "mtime": 1794606464.1878366,
+    "sha256": "7692c3ad3540bb803c020b3aee66cd8887123234ea0c6e7143c0add73ff431ed"
+  },
+  "C:\\Users\\Марк\\AppData\\Local\\Temp\\pytest-of-Марк\\pytest-4\\test_model_change_requires_new0\\b.Q4_K_M.gguf": {
+    "size": 3,
+    "mtime": 1794606464.1878366,
+    "sha256": "3fc4ccfe745870e2c0d99f71f30ff0656c8dedd41cc1d7d3d376b0dbe685e2f3"
+  }
+}
